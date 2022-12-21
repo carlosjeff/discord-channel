@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "4331fc3ae051c8ad7479ae958cc4620f438508d53490a557c7f6621f6d0b9ca6"
+            "sha256": "d9292104155899299e8fd73a298ef39b0c5eea4a18025af74d4af8267111e33f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -128,11 +128,11 @@
         },
         "attrs": {
             "hashes": [
-                "sha256:29adc2665447e5191d0e7c568fde78b21f9672d344281d0c6e1ab085429b22b6",
-                "sha256:86efa402f67bf2df34f51a335487cf46b1ec130d02b8d39fd248abfd30da551c"
+                "sha256:29e95c7f6778868dbd49170f98f8818f78f3dc5e0e37c0b1f474e3561b240836",
+                "sha256:c9227bfc2f01993c03f68db37d1d15c9690188323c067c641f1a35ca58185f99"
             ],
-            "markers": "python_version >= '3.5'",
-            "version": "==22.1.0"
+            "markers": "python_version >= '3.6'",
+            "version": "==22.2.0"
         },
         "charset-normalizer": {
             "hashes": [
@@ -333,6 +333,14 @@
             ],
             "index": "Ponto",
             "version": "==4.2.1"
+        },
+        "python-dotenv": {
+            "hashes": [
+                "sha256:1684eb44636dd462b66c3ee016599815514527ad99965de77f43e0944634a7e5",
+                "sha256:b77d08274639e3d34145dfa6c7008e66df0f04b7be7a75fd0d5292c191d79045"
+            ],
+            "index": "Ponto",
+            "version": "==0.21.0"
         },
         "yarl": {
             "hashes": [
